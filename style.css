@@ -1,0 +1,153 @@
+@charset "UTF-8";
+@import url('https://fonts.googleapis.com/css2?family=Mea+Culpa&family=Playfair+Display:wght@500&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Mea+Culpa&family=Playfair+Display:wght@500&family=Raleway:wght@800&display=swap');
+/*----------------------------------------------------------------------------------------------------------------------------------------*/
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background: #770202;
+}
+p {
+    font: normal 16px arial;
+    color: #ffffff;
+    text-align: justify;
+    margin: 15px 0px;
+}
+header {
+    float: right;
+    width: calc(100% - 250px);
+    transition: .3s;
+}
+main {
+    float: right;
+    width: calc(100% - 250px);
+    transition: .3s;
+}
+footer {
+    float: right;
+    width: calc(100% - 250px);
+    transition: .3s;
+}
+/*FORMATAÇÃO DO MENU*/
+#check{
+    display: none;
+}
+#icone{
+    cursor: pointer;
+    padding: 15px;
+    position: absolute;
+    z-index: 1;
+    
+}
+.barra{
+    background-color: #ffffff;
+    height: 100%;
+    width: 250px;
+    position: absolute;
+    transition:all 0.2s linear;
+    left: -300px;
+}
+nav{
+    width: 100%;
+    position: absolute;
+    top: 60px;
+}
+nav a{
+    text-decoration: none;
+}
+.link{
+    background-color: #b8b8b8;
+    padding: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 12pt;
+    transition: all .2s linear;
+    color: red;
+    border-bottom: 2px solid #222;
+    opacity: 0;
+    margin-top: 60px;
+}
+.link:hover{
+    background-color: #050542;
+}
+#check:checked ~ .barra{
+    transform: translateX(300px);
+}
+#check:checked ~ .barra nav a .link{
+    opacity: 1;
+    margin-top: 0;
+    transition-delay: .3s;
+}
+/*FORMATAÇÃO DO CABECALHO*/
+header {
+    box-shadow: 0px 5px 15px rgba(0, 0, 0, 0.658);
+}
+header h1 {
+    font-family: 'Mea Culpa', cursive;
+    font-family: 'Playfair Display', serif;
+    font-size: 50px;
+    text-shadow: 2px 2px 0px rgba(12, 0, 0, 0.322);
+    color: #ffffff;
+}
+header p {
+    font-family: 'Mea Culpa', cursive;
+    font-family: 'Playfair Display', serif;
+    font-family: 'Raleway', sans-serif;
+    color: #ffffff;
+}
+div#texto-principal h1, p {
+    text-align: center;
+}
+#imagem-principal {
+    height: 900px;
+    background-image: url('imagens/fotoprincipal.jpg');
+    background-position:  center center;
+    background-size: cover;
+    background-attachment: fixed;
+}
+/*FORMATAÇÃO DO VOLTAR E AVANÇAR*/
+div#proximo a {
+    color: #000000;
+}
+/*FORMATAÇÃO PÁGINA PRINCIPAL*/
+section#area-branca {
+    background-color: #ffffff;
+    border-radius: 20px;
+    box-shadow: 3px 5px 4px #00000088;
+    padding: 20px;
+}
+#area-branca p {
+    color: #000000;
+}
+#area-branca-principal p {
+    line-height: 2em;
+}
+h1.principal {
+    font-size: 65px;
+    text-align: center;
+    margin: 20px 0px;
+}
+article#explicacao-do-site p {
+    text-align: center;
+    padding: 10px;
+}
+article#nossa-historia p {
+    text-align: justify;
+    text-indent: 60px;
+    padding: 25px 0px 10px 0px;
+}
+#fotos-dos-padrinhos figure {
+    margin: auto;
+}
+.dama {
+    text-align: center;
+}
+img.uma-foto {
+    display: block;
+    margin: auto;
+    width: 550px;
+}
+h1.principal {
+    margin: 80px 0px 70px 0px;
+}
