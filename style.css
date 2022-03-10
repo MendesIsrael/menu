@@ -17,20 +17,23 @@ p {
 }
 header {
     float: right;
-    width: calc(100% - 250px);
+    width: 100%;
     transition: .3s;
 }
 main {
     float: right;
-    width: calc(100% - 250px);
+    width: 100%;
     transition: .3s;
 }
 footer {
     float: right;
-    width: calc(100% - 250px);
+    width: 100%;
     transition: .3s;
 }
 /*FORMATAÇÃO DO MENU*/
+#menu {
+    font-family: sans-serif;
+}
 #check{
     display: none;
 }
@@ -47,6 +50,7 @@ footer {
     position: absolute;
     transition:all 0.2s linear;
     left: -300px;
+    float: left;
 }
 nav{
     width: 100%;
@@ -59,7 +63,6 @@ nav a{
 .link{
     background-color: #b8b8b8;
     padding: 20px;
-    font-family: Arial, Helvetica, sans-serif;
     font-size: 12pt;
     transition: all .2s linear;
     color: #380101;
@@ -79,6 +82,9 @@ nav a{
     opacity: 1;
     margin-top: 0;
     transition-delay: .1s;
+}
+label {
+    background-color: rgba(255, 255, 255, 0.308);
 }
 /*FORMATAÇÃO DO CABECALHO*/
 header {
