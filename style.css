@@ -174,3 +174,16 @@ h1.principal {
 .coracao img {
     width: 300px;
 }
+/*FORMATAÇÃO DA PROGRAMAÇÃO*/
+div#calendario p{
+    text-align: center;
+}
+article p.horario {
+    font-weight: bold;
+}
+
+/*FORMATAÇÃO DO LOCAL*/
+
+/*FORMATAÇÃO DA LISTA DE PRESENTES*/
+
+/*FORMATAÇÃO DOS FORNECEDORES*/
