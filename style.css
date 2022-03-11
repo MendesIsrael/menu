@@ -156,7 +156,7 @@ article#nossa-historia p {
     margin: auto;
 }
 #fotos-dos-padrinhos figure img {
-    width: 220px;
+    width: 230px;
 }
 .dama {
     text-align: center;
@@ -185,3 +185,13 @@ article p.horario {
 /*FORMATAÇÃO DA LISTA DE PRESENTES*/
 
 /*FORMATAÇÃO DOS FORNECEDORES*/
+
+div#caixa-a, #caixa-b {
+    width: 230px;
+    text-align: center;
+    display: inline-block;
+}
+div#center {
+    display: flex;
+    justify-content: center;
+}
