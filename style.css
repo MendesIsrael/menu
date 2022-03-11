@@ -160,6 +160,7 @@ article#nossa-historia p {
 }
 .dama {
     text-align: center;
+    font-weight: bold;
 }
 img.uma-foto {
     display: block;
@@ -186,7 +187,8 @@ article p.horario {
 
 /*FORMATAÇÃO DOS FORNECEDORES--------------------------------------------------------------------------------------------------------------*/
 
-div#caixa-a, #caixa-b {
+div#caixa {
+    font: normal 16px arial;
     width: 220px;
     text-align: center;
     color: #ffffff;
