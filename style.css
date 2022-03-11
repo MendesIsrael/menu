@@ -108,6 +108,7 @@ div#texto-principal h1, p {
 }
 #imagem-principal {
     height: 900px;
+    width: auto;
     background-image: url('imagens/fotoprincipal.jpg');
     background-position:  center center;
     background-size: cover;
