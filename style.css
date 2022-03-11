@@ -153,8 +153,14 @@ article#nossa-historia p {
 img.uma-foto {
     display: block;
     margin: auto;
-    width: 550px;
+    width: 450px;
 }
 h1.principal {
     margin: 80px 0px 70px 0px;
+}
+#fotos-do-casal img {
+    width: 300px;
+}
+#area-branca img {
+    width: 300px;
 }
