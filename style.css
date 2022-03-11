@@ -44,7 +44,7 @@ footer {
     z-index: 1;
 }
 .barra{
-    
+    background-color: rgba(0, 0, 0, 0.466);
     height: 100%;
     width: 250px;
     position: absolute;
@@ -158,9 +158,6 @@ img.uma-foto {
 h1.principal {
     margin: 80px 0px 70px 0px;
 }
-#fotos-do-casal img {
-    width: 300px;
-}
-#area-branca img {
+.coracao img {
     width: 300px;
 }
