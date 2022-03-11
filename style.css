@@ -111,8 +111,8 @@ div#texto-principal h1, p {
     padding-top: 320px;
 }
 #imagem-principal {
-    height: 900px;
-    width: auto;
+    height: 800px;
+    width: 100%;
     background-image: url('imagens/fotoprincipal.jpg');
     background-position:  center center;
     background-size: cover;
@@ -149,11 +149,15 @@ article#nossa-historia p {
     text-indent: 60px;
     padding: 25px 0px 10px 0px;
 }
+#texto-padrinhos p, #texto-daminha p, #texto-florista p {
+    text-align: justify;
+    padding: 20px;
+}
 #fotos-dos-padrinhos figure {
     margin: auto;
 }
 #fotos-dos-padrinhos figure img {
-    width: 100px;
+    width: 250px;
 }
 .dama {
     text-align: center;
