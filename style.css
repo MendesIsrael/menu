@@ -108,7 +108,7 @@ div#texto-principal h1, p {
 }
 #imagem-principal #texto-principal {
     height: 800px;
-    padding-top: 250px;
+    padding-top: 320px;
 }
 #imagem-principal {
     height: 900px;
@@ -153,7 +153,7 @@ article#nossa-historia p {
     margin: auto;
 }
 #fotos-dos-padrinhos figure img {
-    width: 200px;
+    width: 100px;
 }
 .dama {
     text-align: center;
