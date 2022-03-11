@@ -108,7 +108,7 @@ div#texto-principal h1, p {
 }
 #imagem-principal #texto-principal {
     height: 800px;
-    padding-top: 20%;
+    padding-top: 250px;
 }
 #imagem-principal {
     height: 900px;
@@ -119,17 +119,15 @@ div#texto-principal h1, p {
     background-attachment: fixed;
 }
 /*FORMATAÇÃO DO VOLTAR E AVANÇAR*/
-div#proximo a {
-    color: #000000;
-}
+
 /*FORMATAÇÃO PÁGINA PRINCIPAL*/
 section#area-branca {
     background-color: #ffffff;
     border-radius: 20px;
     box-shadow: 3px 5px 4px #00000088;
     padding: 20px;
-    margin-left: 2%;
-    margin-right: 2%;
+    margin-left: 1%;
+    margin-right: 1%;
 }
 #area-branca p {
     color: #000000;
@@ -153,6 +151,10 @@ article#nossa-historia p {
 }
 #fotos-dos-padrinhos figure {
     margin: auto;
+    width: 400px;
+}
+#fotos-dos-padrinhos figure img {
+    width: 200px;
 }
 .dama {
     text-align: center;
