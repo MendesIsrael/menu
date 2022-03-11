@@ -106,6 +106,10 @@ header p {
 div#texto-principal h1, p {
     text-align: center;
 }
+#imagem-principal #texto-principal {
+    height: 800px;
+    padding-top: 20%;
+}
 #imagem-principal {
     height: 900px;
     width: auto;
