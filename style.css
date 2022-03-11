@@ -30,7 +30,7 @@ footer {
     width: 100%;
     transition: .3s;
 }
-/*FORMATAÇÃO DO MENU*/
+/*FORMATAÇÃO DO MENU-----------------------------------------------------------------------------------------------------------------------*/
 #menu {
     font-family: sans-serif;
 }
@@ -84,9 +84,9 @@ nav a{
     transition-delay: .1s;
 }
 label {
-    background-color: rgba(255, 255, 255, 0.308);
+    background-color: #b8b8b8;
 }
-/*FORMATAÇÃO DO CABECALHO*/
+/*FORMATAÇÃO DO CABECALHO------------------------------------------------------------------------------------------------------------------*/
 header {
     box-shadow: 0px 5px 15px rgba(0, 0, 0, 0.658);
 }
@@ -117,9 +117,9 @@ div#texto-principal h1, p {
     background-size: cover;
     background-attachment: fixed;
 }
-/*FORMATAÇÃO DO VOLTAR E AVANÇAR*/
+/*FORMATAÇÃO DO VOLTAR E AVANÇAR-----------------------------------------------------------------------------------------------------------*/
 
-/*FORMATAÇÃO PÁGINA PRINCIPAL*/
+/*FORMATAÇÃO PÁGINA PRINCIPAL--------------------------------------------------------------------------------------------------------------*/
 section#area-branca {
     background-color: #ffffff;
     border-radius: 20px;
@@ -156,7 +156,7 @@ article#nossa-historia p {
     margin: auto;
 }
 #fotos-dos-padrinhos figure img {
-    width: 230px;
+    width: 220px;
 }
 .dama {
     text-align: center;
@@ -172,7 +172,7 @@ h1.principal {
 .coracao img {
     width: 300px;
 }
-/*FORMATAÇÃO DA PROGRAMAÇÃO*/
+/*FORMATAÇÃO DA PROGRAMAÇÃO----------------------------------------------------------------------------------------------------------------*/
 div#calendario p{
     text-align: center;
 }
@@ -180,18 +180,20 @@ article p.horario {
     font-weight: bold;
 }
 
-/*FORMATAÇÃO DO LOCAL*/
+/*FORMATAÇÃO DO LOCAL----------------------------------------------------------------------------------------------------------------------*/
 
-/*FORMATAÇÃO DA LISTA DE PRESENTES*/
+/*FORMATAÇÃO DA LISTA DE PRESENTES---------------------------------------------------------------------------------------------------------*/
 
-/*FORMATAÇÃO DOS FORNECEDORES*/
+/*FORMATAÇÃO DOS FORNECEDORES--------------------------------------------------------------------------------------------------------------*/
 
 div#caixa-a, #caixa-b {
-    width: 230px;
+    width: 220px;
     text-align: center;
+    color: #ffffff;
+    font-weight: bold;
     display: inline-block;
 }
-div#center {
+div.center {
     display: flex;
     justify-content: center;
 }
