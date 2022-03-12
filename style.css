@@ -112,7 +112,7 @@ div#texto-principal h1, p {
 }
 #imagem-principal {
     height: 800px;
-    background-image: linear-gradient(rgba(0,0,0,.5), rgba(0,0,0,.5)), url('imagens/fotoprincipal.jpg');
+    background-image: linear-gradient(rgba(0,0,0,.5), rgba(0,0,0,.5)), url('imagens/Foto-home2.jpg');
     background-position:  center center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -120,8 +120,16 @@ div#texto-principal h1, p {
     
 }
 /*FORMATAÇÃO DO VOLTAR E AVANÇAR-----------------------------------------------------------------------------------------------------------*/
-#avancar-voltar  {
-    color: #000000;
+div#avancar nav#avancar-voltar  {
+    background-color: #d30909;
+    position: relative;
+    margin: auto;
+    margin-bottom: 100px;
+    text-align: center;
+    width: 200px;
+}
+nav#avancar-voltar a {
+    color: #ffffff;
 }
 /*FORMATAÇÃO PÁGINA PRINCIPAL--------------------------------------------------------------------------------------------------------------*/
 section#area-branca {
@@ -177,6 +185,18 @@ h1.principal {
 .coracao img {
     width: 300px;
 }
+div#caixa {
+    font: normal 16px arial;
+    width: 220px;
+    text-align: center;
+    color: #ffffff;
+    font-weight: bold;
+    display: inline-block;
+}
+div.center {
+    display: flex;
+    justify-content: center;
+}
 /*FORMATAÇÃO DA PROGRAMAÇÃO----------------------------------------------------------------------------------------------------------------*/
 div#calendario p{
     text-align: center;
@@ -191,15 +211,3 @@ article p.horario {
 
 /*FORMATAÇÃO DOS FORNECEDORES--------------------------------------------------------------------------------------------------------------*/
 
-div#caixa {
-    font: normal 16px arial;
-    width: 220px;
-    text-align: center;
-    color: #ffffff;
-    font-weight: bold;
-    display: inline-block;
-}
-div.center {
-    display: flex;
-    justify-content: center;
-}
