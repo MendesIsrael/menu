@@ -120,16 +120,8 @@ div#texto-principal h1, p {
     
 }
 /*FORMATAÇÃO DO VOLTAR E AVANÇAR-----------------------------------------------------------------------------------------------------------*/
-#avancar a {
-    text-decoration: none;
-    text-align: center;
+#avancar-voltar  {
     color: #000000;
-    font-weight: bold;
-}
-#avancar {
-    background-color: #525151;
-    height: 30px;
-    width: 100px;
 }
 /*FORMATAÇÃO PÁGINA PRINCIPAL--------------------------------------------------------------------------------------------------------------*/
 section#area-branca {
