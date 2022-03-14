@@ -136,6 +136,23 @@ nav#avancar-voltar a {
     color: #ffffff;
     font-weight: bold;
 }
+div#voltar-avancar nav#avancar-voltar1 {
+    position: relative;
+    margin-bottom: 90px;
+    text-align: center;
+    
+}
+nav#avancar-voltar1 a {
+    display: inline-block;
+    color: #ffffff;
+    font-weight: bold;
+    background-color: #000000;
+    width: 150px;
+    height: 20px;
+    border-radius: 5px;
+    padding: 10px;
+    box-shadow: 1px 2px 3px #fa05057c;
+}
 /*FORMATAÇÃO PÁGINA PRINCIPAL--------------------------------------------------------------------------------------------------------------*/
 section#area-branca {
     background-color: #ffffff;
@@ -213,7 +230,7 @@ article#aviso p {
     color: #770202;
     font-weight: bolder;
     font-size: 18px;
-    text-shadow: 0px 0px 5px rgba(235, 9, 9, 0.801);
+    text-shadow: 0px 0px 5px rgba(235, 9, 9, 0.5);
 }
 
 /*FORMATAÇÃO DO LOCAL----------------------------------------------------------------------------------------------------------------------*/
