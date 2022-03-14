@@ -209,6 +209,12 @@ div#calendario p{
 article p.horario {
     font-weight: bold;
 }
+article#aviso p {
+    color: #770202;
+    font-weight: bolder;
+    font-size: 18px;
+    text-shadow: 0px 0px 5px rgba(235, 9, 9, 0.801);
+}
 
 /*FORMATAÇÃO DO LOCAL----------------------------------------------------------------------------------------------------------------------*/
 
