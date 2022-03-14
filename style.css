@@ -240,6 +240,15 @@ img.uma-foto1 {
 img.coracao-pequeno {
     width: 30px;
 }
+#calendario .bloco {
+    display: inline-block;
+    margin-left: 50px;
+    margin-right: 50px;
+}
+#calendario .bloco-coracao {
+    display: inline-block;
+    width: 50px;
+}
 
 /*FORMATAÇÃO DO LOCAL----------------------------------------------------------------------------------------------------------------------*/
 
