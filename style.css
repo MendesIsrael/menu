@@ -121,15 +121,18 @@ div#texto-principal h1, p {
 }
 /*FORMATAÇÃO DO VOLTAR E AVANÇAR-----------------------------------------------------------------------------------------------------------*/
 div#avancar nav#avancar-voltar  {
-    background-color: #d30909;
+    background-color: #818080;
     position: relative;
     margin: auto;
-    margin-bottom: 100px;
+    margin-bottom: 70px;
     text-align: center;
-    width: 200px;
+    width: 150px;
+    height: 25px;
+    border-radius: 5px;
+    padding: 10px;
 }
 nav#avancar-voltar a {
-    color: #ffffff;
+    color: #050505;
 }
 /*FORMATAÇÃO PÁGINA PRINCIPAL--------------------------------------------------------------------------------------------------------------*/
 section#area-branca {
