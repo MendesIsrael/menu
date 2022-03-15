@@ -106,18 +106,9 @@ header p {
 div#texto-principal h1, p {
     text-align: center;
 }
-#imagem-principal #texto-principal {
+#texto-principal {
     height: 800px;
     padding-top: 320px;
-}
-#imagem-principal {
-    height: 800px;
-    background-image: linear-gradient(rgba(0,0,0,.5), rgba(0,0,0,.5)), url('imagens/Foto-home2.jpg');
-    background-position:  center center;
-    background-repeat: no-repeat;
-    background-size: cover;
-    background-attachment: fixed;
-    
 }
 /*FORMATAÇÃO DO VOLTAR E AVANÇAR-----------------------------------------------------------------------------------------------------------*/
 div#avancar nav#avancar-voltar  {
@@ -154,6 +145,14 @@ nav#avancar-voltar1 a {
     box-shadow: 1px 2px 5px #0707077c;
 }
 /*FORMATAÇÃO PÁGINA PRINCIPAL--------------------------------------------------------------------------------------------------------------*/
+#imagem-principal {
+    height: 800px;
+    background-image: linear-gradient(rgba(0,0,0,.5), rgba(0,0,0,.5)), url('imagens/Foto-home2.jpg');
+    background-position:  center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
 section#area-branca {
     background-color: #ffffff;
     border-radius: 20px;
@@ -220,6 +219,14 @@ div.center {
     justify-content: center;
 }
 /*FORMATAÇÃO DA PROGRAMAÇÃO----------------------------------------------------------------------------------------------------------------*/
+#imagem-principal-pro {
+    height: 800px;
+    background-image: linear-gradient(rgba(0,0,0,.5), rgba(0,0,0,.5)), url('imagens/foto-programacao.jpg');
+    background-position:  center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
 div#calendario p{
     text-align: center;
 }
@@ -268,10 +275,31 @@ img.coracao-pequeno-d {
     font-size: 20px;
 }
 
-
 /*FORMATAÇÃO DO LOCAL----------------------------------------------------------------------------------------------------------------------*/
-
+#imagem-principal-loc {
+    height: 800px;
+    background-image: linear-gradient(rgba(0,0,0,.5), rgba(0,0,0,.5)), url('imagens/foto-local.jpg');
+    background-position:  center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+#pesquise-local {
+    position: relative;
+    margin-bottom: 20px;
+}
+#pesquise-local li {
+    text-align: center;
+    background-color: #ffffff;
+    width: 600px;
+    border-radius: 5px;
+}
+#pesquise-local li a {
+    color: #000000;
+}
 /*FORMATAÇÃO DA LISTA DE PRESENTES---------------------------------------------------------------------------------------------------------*/
-
+#lista-de-presentes {
+    position: relative;
+}
 /*FORMATAÇÃO DOS FORNECEDORES--------------------------------------------------------------------------------------------------------------*/
 
