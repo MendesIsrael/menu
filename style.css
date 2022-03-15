@@ -285,10 +285,6 @@ img.coracao-pequeno-d {
     background-attachment: fixed;
 }
 #pesquise-local {
-    position: relative;
-    margin-bottom: 20px;
-}
-#pesquise-local {
     background-color: #f1f1f1;
     position: relative;
     margin: auto;
