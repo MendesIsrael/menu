@@ -232,22 +232,36 @@ article#aviso p {
     font-size: 18px;
     text-shadow: 0px 0px 5px rgba(235, 9, 9, 0.5);
 }
+div.center1 {
+    display: flex;
+    justify-content: center;
+    height: 150px;
+}
 img.uma-foto1 {
     display: block;
     margin: auto;
-    width: 400px;
+    width: 350px;
 }
-img.coracao-pequeno {
+img.coracao-pequeno-e {
     width: 30px;
+    margin-left: 10px;
+    margin-right: auto;
+}
+img.coracao-pequeno-d {
+    width: 30px;
+    margin-left: auto;
+    margin-right: 10px;
 }
 #calendario .bloco {
     display: inline-block;
-    margin-left: 50px;
-    margin-right: 50px;
+    margin-top: auto;
+    margin-bottom: auto;
+    width: 600px;
 }
 #calendario .bloco-coracao {
     display: inline-block;
-    width: 50px;
+    margin-top: auto;
+    margin-bottom: auto;
 }
 
 /*FORMATAÇÃO DO LOCAL----------------------------------------------------------------------------------------------------------------------*/
