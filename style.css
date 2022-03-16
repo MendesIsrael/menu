@@ -372,11 +372,11 @@ div.center2 {
     display: inline-block;
     margin-top: auto;
     margin-bottom: auto;
-    width: 250px;
+    width: 300px;
 }
 #lista-de-presentes .bloco-varios-coracao {
     display: inline-block;
-    margin: auto 30px;
+    margin: auto 20px;
 }
 #lista-de-presentes .bloco2 a {
     justify-content: center;
@@ -389,4 +389,24 @@ div.center2 {
     padding: 5px;
 }
 /*FORMATAÇÃO DOS FORNECEDORES--------------------------------------------------------------------------------------------------------------*/
-
+#fotos-dos-fornecedores figure {
+    margin: auto;
+}
+#fotos-dos-fornecedores figure img {
+    width: 220px;
+}
+div#caixa {
+    font: normal 16px arial;
+    width: 220px;
+    text-align: center;
+    color: #ffffff;
+    font-weight: bold;
+    display: inline-block;
+}
+div.center {
+    display: flex;
+    justify-content: center;
+}
+picture #caixa {
+    color: #000000;
+}
