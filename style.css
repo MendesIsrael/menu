@@ -311,8 +311,8 @@ div.mapa iframe {
     position: absolute;
     top: 5%;
     left: 5%;
-    width: 85%;
-    height: 85%;
+    width: 88%;
+    height: 88%;
 }
 div#video {
     background-color: #ffffff;
@@ -358,12 +358,35 @@ div#transporte h1.destaque {
     text-align: center;
 }
 /*FORMATAÇÃO DA LISTA DE PRESENTES---------------------------------------------------------------------------------------------------------*/
-#presentes {
-    position: relative;
+article.itens-presentes {
+    margin-top: 100px;
+    margin-bottom: 50px;
+    text-shadow: 1px 1px 3px rgba(243, 9, 9, 0.486);
 }
-#presentes a {
-    display: block;
-    margin: 20px;
+div.center2 {
+    display: flex;
+    justify-content: center;
+    height: 50px;
+}
+#lista-de-presentes .bloco2 {
+    display: inline-block;
+    margin-top: auto;
+    margin-bottom: auto;
+    width: 250px;
+}
+#lista-de-presentes .bloco-varios-coracao {
+    display: inline-block;
+    margin: auto 30px;
+}
+#lista-de-presentes .bloco2 a {
+    justify-content: center;
+    display: flex;
+    background-color: #770202;
+    text-decoration: none;
+    color: #ffffff;
+    border-radius: 5px;
+    box-shadow: 1px 2px 3px rgba(143, 143, 143, 0.671);
+    padding: 5px;
 }
 /*FORMATAÇÃO DOS FORNECEDORES--------------------------------------------------------------------------------------------------------------*/
 
