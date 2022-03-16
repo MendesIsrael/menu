@@ -311,8 +311,8 @@ div#mapa iframe {
     position: absolute;
     top: 5%;
     left: 5%;
-    width: 90%;
-    height: 90%;
+    width: 85%;
+    height: 85%;
 }
 div#video {
     background-color: #ffffff;
@@ -347,8 +347,23 @@ div#video iframe {
 p#aviso-hotel {
     margin-top: 70px;
 }
-
+p#carro {
+    font-size: 300px;
+    margin-top: -150px;
+    margin-bottom: 100px;
+}
+div#transporte h1.destaque {
+    font-weight: bold;
+    font-size: 22px;
+    text-align: center;
+}
 /*FORMATAÇÃO DA LISTA DE PRESENTES---------------------------------------------------------------------------------------------------------*/
-
+#presentes {
+    position: relative;
+}
+#presentes a {
+    display: block;
+    margin: 20px;
+}
 /*FORMATAÇÃO DOS FORNECEDORES--------------------------------------------------------------------------------------------------------------*/
 
