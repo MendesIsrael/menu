@@ -310,7 +310,7 @@ div#video iframe {
     margin: auto;
     margin-bottom: 70px;
     text-align: center;
-    width: 500px;
+    width: 350px;
     height: 15px;
     border-radius: 5px;
     padding: 10px;
@@ -319,6 +319,9 @@ div#video iframe {
 #pesquise-local a {
     color: #070707;
     font-weight: bold;
+}
+p#aviso-hotel {
+    margin-top: 70px;
 }
 
 /*FORMATAÇÃO DA LISTA DE PRESENTES---------------------------------------------------------------------------------------------------------*/
