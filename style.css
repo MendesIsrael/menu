@@ -348,7 +348,7 @@ p#aviso-hotel {
     margin-top: 70px;
 }
 #transporte img {
-    margin-top: 100px;
+    margin-top: 10px;
     margin-bottom: 100px;
 }
 div#transporte h1.destaque {
@@ -405,7 +405,10 @@ div#caixa {
 div.center {
     display: flex;
     justify-content: center;
+    margin-bottom: 30px;
 }
 picture #caixa {
     color: #000000;
+    font-size: 12px;
+    text-decoration: underline;
 }
