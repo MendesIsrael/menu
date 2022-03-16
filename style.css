@@ -347,9 +347,8 @@ div#video iframe {
 p#aviso-hotel {
     margin-top: 70px;
 }
-p#carro {
-    font-size: 200px;
-    margin-top: -80px;
+#transporte img {
+    margin-top: 100px;
     margin-bottom: 100px;
 }
 div#transporte h1.destaque {
