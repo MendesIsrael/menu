@@ -412,3 +412,9 @@ picture #caixa {
     font-size: 12px;
     text-decoration: underline;
 }
+p#clique-na-imagem {
+    margin-top: 70px;
+    font-size: 20px;
+    text-decoration: underline;
+    font-weight: bold;
+}
