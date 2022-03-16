@@ -301,13 +301,13 @@ p#br-040 {
     font-size: 25px;
     text-decoration: underline;
 }
-div#mapa {
+div.mapa {
     margin: 0px -20px 30px -20px;
     padding: 20px;
     padding-bottom: 50%;
     position: relative;
 } 
-div#mapa iframe {
+div.mapa iframe {
     position: absolute;
     top: 5%;
     left: 5%;
@@ -348,8 +348,8 @@ p#aviso-hotel {
     margin-top: 70px;
 }
 p#carro {
-    font-size: 300px;
-    margin-top: -150px;
+    font-size: 200px;
+    margin-top: -80px;
     margin-bottom: 100px;
 }
 div#transporte h1.destaque {
