@@ -30,6 +30,9 @@ footer {
     width: 100%;
     transition: .3s;
 }
+audio {
+    width: 100%;
+}
 /*FORMATAÇÃO DO MENU-----------------------------------------------------------------------------------------------------------------------*/
 #menu {
     font-family: sans-serif;
@@ -350,6 +353,7 @@ p#aviso-hotel {
 #transporte img {
     margin-top: 10px;
     margin-bottom: 100px;
+    width: 250px;
 }
 div#transporte h1.destaque {
     font-weight: bold;
@@ -417,7 +421,4 @@ p#clique-na-imagem {
     font-size: 20px;
     text-decoration: underline;
     font-weight: bold;
-}
-audio {
-    width: 100%;
 }
