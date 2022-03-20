@@ -392,11 +392,11 @@ div.center2 {
     margin: auto;
 }
 #fotos-dos-fornecedores figure img {
-    width: 220px;
+    width: 180px;
 }
 div.caixa3 {
     font: normal 16px arial;
-    width: 220px;
+    width: 190px;
     text-align: center;
     color: #ffffff;
     font-weight: bold;
@@ -409,7 +409,7 @@ div.center {
 }
 picture .caixa3 {
     color: #000000;
-    font-size: 12px;
+    font-size: 10px;
     text-decoration: underline;
 }
 p#clique-na-imagem {
