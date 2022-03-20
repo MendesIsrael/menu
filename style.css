@@ -371,11 +371,11 @@ div.center2 {
     display: inline-block;
     margin-top: auto;
     margin-bottom: auto;
-    width: 320px;
+    width: 210px;
 }
 #lista-de-presentes .bloco-varios-coracao {
     display: inline-block;
-    margin: auto 20px;
+    margin: auto 10px;
 }
 #lista-de-presentes .bloco2 a {
     justify-content: center;
@@ -417,4 +417,7 @@ p#clique-na-imagem {
     font-size: 20px;
     text-decoration: underline;
     font-weight: bold;
+}
+audio {
+    width: 500px;
 }
