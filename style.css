@@ -224,7 +224,7 @@ div.center {
 /*FORMATAÇÃO DA PROGRAMAÇÃO----------------------------------------------------------------------------------------------------------------*/
 #imagem-principal-pro {
     height: 800px;
-    background-image: linear-gradient(rgba(0,0,0,.5), rgba(0,0,0,.5)), url('imagens/foto-programacao.jpg');
+    background-image: linear-gradient(rgba(0,0,0,.5), rgba(0,0,0,.5)), url('imagens/fotoprogramacao.jpg');
     background-position:  center center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -281,7 +281,7 @@ img.coracao-pequeno-d {
 /*FORMATAÇÃO DO LOCAL----------------------------------------------------------------------------------------------------------------------*/
 #imagem-principal-loc {
     height: 800px;
-    background-image: linear-gradient(rgba(0,0,0,.5), rgba(0,0,0,.5)), url('imagens/foto-local.jpg');
+    background-image: linear-gradient(rgba(0,0,0,.5), rgba(0,0,0,.5)), url('imagens/fotolocal.jpg');
     background-position:  center center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -361,6 +361,14 @@ div#transporte h1.destaque {
     text-align: center;
 }
 /*FORMATAÇÃO DA LISTA DE PRESENTES---------------------------------------------------------------------------------------------------------*/
+#imagem-principal-lis {
+    height: 800px;
+    background-image: linear-gradient(rgba(0,0,0,.5), rgba(0,0,0,.5)), url('imagens/fotolistalistadepresentes.jpg');
+    background-position:  center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
 article.itens-presentes {
     margin-top: 100px;
     margin-bottom: 50px;
@@ -392,6 +400,14 @@ div.center2 {
     padding: 5px;
 }
 /*FORMATAÇÃO DOS FORNECEDORES--------------------------------------------------------------------------------------------------------------*/
+#imagem-principal-for {
+    height: 800px;
+    background-image: linear-gradient(rgba(0,0,0,.5), rgba(0,0,0,.5)), url('imagens/fotofornecedores.jpg');
+    background-position:  center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
 #fotos-dos-fornecedores figure {
     margin: auto;
 }
