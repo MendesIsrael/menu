@@ -224,7 +224,7 @@ div.center {
 /*FORMATAÇÃO DA PROGRAMAÇÃO----------------------------------------------------------------------------------------------------------------*/
 #imagem-principal-pro {
     height: 800px;
-    background-image: linear-gradient(rgba(0,0,0,.5), rgba(0,0,0,.5)), url('imagens/foto-programacao-teste.jpg');
+    background-image: linear-gradient(rgba(0,0,0,.5), rgba(0,0,0,.5)), url('imagens/foto-programacao.png');
     background-position:  center center;
     background-repeat: no-repeat;
     background-size: cover;
