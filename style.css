@@ -364,7 +364,7 @@ div#transporte h1.destaque {
 #imagem-principal-lis {
     height: 850px;
     background-image: linear-gradient(rgba(0,0,0,.5), rgba(0,0,0,.5)), url('imagens/foto-lista-presentes.jpg');
-    background-position:  center center;
+    background-position:  center bottom;
     background-repeat: no-repeat;
     background-size: cover;
     background-attachment: fixed;
