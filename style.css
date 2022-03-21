@@ -225,7 +225,7 @@ div.center {
 #imagem-principal-pro {
     height: 800px;
     background-image: linear-gradient(rgba(0,0,0,.5), rgba(0,0,0,.5)), url('imagens/foto-programacao.jpg');
-    background-position:  center center;
+    background-position:  center bottom;
     background-repeat: no-repeat;
     background-size: cover;
     background-attachment: fixed;
@@ -282,7 +282,7 @@ img.coracao-pequeno-d {
 #imagem-principal-loc {
     height: 850px;
     background-image: linear-gradient(rgba(0,0,0,.5), rgba(0,0,0,.5)), url('imagens/foto-local.jpg');
-    background-position:  center center;
+    background-position:  center bottom;
     background-repeat: no-repeat;
     background-size: cover;
     background-attachment: fixed;
