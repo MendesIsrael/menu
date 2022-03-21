@@ -149,7 +149,7 @@ nav#avancar-voltar1 a {
 }
 /*FORMATAÇÃO PÁGINA PRINCIPAL--------------------------------------------------------------------------------------------------------------*/
 #imagem-principal {
-    height: 800px;
+    height: 850px;
     background-image: linear-gradient(rgba(0,0,0,.5), rgba(0,0,0,.5)), url('imagens/Foto-home2.jpg');
     background-position:  center center;
     background-repeat: no-repeat;
@@ -223,7 +223,7 @@ div.center {
 }
 /*FORMATAÇÃO DA PROGRAMAÇÃO----------------------------------------------------------------------------------------------------------------*/
 #imagem-principal-pro {
-    height: 800px;
+    height: 850px;
     background-image: linear-gradient(rgba(0,0,0,.5), rgba(0,0,0,.5)), url('imagens/foto-programacao.png');
     background-position:  center center;
     background-repeat: no-repeat;
@@ -280,7 +280,7 @@ img.coracao-pequeno-d {
 
 /*FORMATAÇÃO DO LOCAL----------------------------------------------------------------------------------------------------------------------*/
 #imagem-principal-loc {
-    height: 900px;
+    height: 850px;
     background-image: linear-gradient(rgba(0,0,0,.5), rgba(0,0,0,.5)), url('imagens/foto-local.png');
     background-position:  center center;
     background-repeat: no-repeat;
@@ -362,7 +362,7 @@ div#transporte h1.destaque {
 }
 /*FORMATAÇÃO DA LISTA DE PRESENTES---------------------------------------------------------------------------------------------------------*/
 #imagem-principal-lis {
-    height: 800px;
+    height: 850px;
     background-image: linear-gradient(rgba(0,0,0,.5), rgba(0,0,0,.5)), url('imagens/fotolistalistadepresentes.jpg');
     background-position:  center center;
     background-repeat: no-repeat;
@@ -401,7 +401,7 @@ div.center2 {
 }
 /*FORMATAÇÃO DOS FORNECEDORES--------------------------------------------------------------------------------------------------------------*/
 #imagem-principal-for {
-    height: 800px;
+    height: 850px;
     background-image: linear-gradient(rgba(0,0,0,.5), rgba(0,0,0,.5)), url('imagens/fotofornecedores.jpg');
     background-position:  center center;
     background-repeat: no-repeat;
