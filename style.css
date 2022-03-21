@@ -402,7 +402,7 @@ div.center2 {
 /*FORMATAÇÃO DOS FORNECEDORES--------------------------------------------------------------------------------------------------------------*/
 #imagem-principal-for {
     height: 850px;
-    background-image: linear-gradient(rgba(0,0,0,.5), rgba(0,0,0,.5)), url('imagens/fotofornecedores.jpg');
+    background-image: linear-gradient(rgba(0,0,0,.5), rgba(0,0,0,.5)), url('imagens/foto-fornecedores.jpg');
     background-position:  center center;
     background-repeat: no-repeat;
     background-size: cover;
