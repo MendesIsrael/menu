@@ -185,7 +185,7 @@ h1.principal {
     text-align: center;
 }
 #contagem-regressiva #ti {
-    font-size: 20px;
+    font-size: 15px;
     color: #fff;
     text-shadow: 2px 2px 3px #00000094;
 } 
@@ -197,7 +197,7 @@ h1.principal {
 #contagem-regressiva .countdown li {
     font-family: Georgia, "Times New Roman", Times, serif;
     font-style: italic;
-    padding: 1rem;
+    padding: 8px;
     color: #000000;
     background: #770202;
     text-align: center;
@@ -205,7 +205,7 @@ h1.principal {
 #contagem-regressiva .countdown li span {
     font-family: Arial, Helvetica, sans-serif;
     font-style: normal;
-    font-size: 4rem;
+    font-size: 35px;
 }
 article#explicacao-do-site p {
     text-align: center;
