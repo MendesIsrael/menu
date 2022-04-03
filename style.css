@@ -189,6 +189,9 @@ h1.principal {
     color: #fff;
     text-shadow: 2px 2px 3px #00000094;
 } 
+#contagem-regressiva div {
+    font-size: 11px;
+}
 #contagem-regressiva .coutdown {
     display: grid;
     grid-template-columns: repeat(auto-fit, minmax(280px, 400px));
