@@ -259,7 +259,7 @@ div.center {
 /*FORMATAÇÃO DA PROGRAMAÇÃO----------------------------------------------------------------------------------------------------------------*/
 #imagem-principal-pro {
     height: 800px;
-    background-image: linear-gradient(rgba(0,0,0,.5), rgba(0,0,0,.5)), url('imagens/-programacao.jpg');
+    background-image: linear-gradient(rgba(0,0,0,.5), rgba(0,0,0,.5)), url('imagens/foto-programacao.jpg');
     background-position:  center center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -398,7 +398,7 @@ div#transporte h1.destaque {
 /*FORMATAÇÃO DA LISTA DE PRESENTES---------------------------------------------------------------------------------------------------------*/
 #imagem-principal-lis {
     height: 800px;
-    background-image: linear-gradient(rgba(0,0,0,.5), rgba(0,0,0,.5)), url('imagens/principal-presentes.jpg');
+    background-image: linear-gradient(rgba(0,0,0,.5), rgba(0,0,0,.5)), url('imagens/foto-presentes.jpg');
     background-position:  center center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -437,7 +437,7 @@ div.center2 {
 /*FORMATAÇÃO DOS FORNECEDORES--------------------------------------------------------------------------------------------------------------*/
 #imagem-principal-for {
     height: 800px;
-    background-image: linear-gradient(rgba(0,0,0,.5), rgba(0,0,0,.5)), url('imagens/foto-programacao.jpg');
+    background-image: linear-gradient(rgba(0,0,0,.5), rgba(0,0,0,.5)), url('imagens/foto-fornecedor.jpg');
     background-position:  center center;
     background-repeat: no-repeat;
     background-size: cover;
